@@ -50,7 +50,7 @@ https://drive.google.com/file/d/1Rx96lMhzOv-gwcol44Wvg9D44BZ2iBW9/view
 
 <br clear="both" />
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -66,60 +66,70 @@ https://drive.google.com/file/d/1Rx96lMhzOv-gwcol44Wvg9D44BZ2iBW9/view
   </a>
 </p>
 
+---
 
-## Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 
-  <!-- State & Data -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" width="40"/>
+<!-- Frontend -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
 
-  <!-- Backend / Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<!-- State & Routing -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" width="40"/>
 
-  <!-- Programming Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<!-- Backend / DB -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
 
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<!-- Programming -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
+<!-- Tools -->
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 </p>
 
 
+---
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=MunnaKhan99&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=MunnaKhan99&show_icons=true&theme=tokyonight&hide_border=true"
     width="48%"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunnaKhan99&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MunnaKhan99&layout=compact&theme=tokyonight&hide_border=true"
     width="48%"
   />
 </p>
-
-
 
 <p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=MunnaKhan99&label=Profile%20views&color=0e75b6&style=flat"
-  />
+  <img src="https://komarev.com/ghpvc/?username=MunnaKhan99&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img width="48%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MunnaKhan99&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
