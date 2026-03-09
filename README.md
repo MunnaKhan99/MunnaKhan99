@@ -23,8 +23,8 @@
 
 **I. Current Focus**  
 Currently developing a production-grade frontend project:  
-**Apple Clone 2025**  
-https://github.com/MunnaKhan99/Apple-Clone-2025.git  
+**দক্ষ - Local Service Provider Platform**  
+https://dokkho-service.netlify.app  
 
 **II. Learning & Craft**  
 Advanced React.js, modern frontend architecture, UI/UX refinement, and performance optimization.
@@ -40,13 +40,13 @@ Frontend performance tuning, animation discipline, and interaction design.
 https://munnakhan99.github.io/My-Portfolio-Website/
 
 **VI. Technical Discussions**  
-React, JavaScript (ES6+), TypeScript, Tailwind CSS, Next.js, Vite, Redux, Shadcn/ui.
+React, JavaScript (ES6+), TypeScript, Tailwind CSS, Next.js,React Router,Tanstack Query,Firebase,.
 
 **VII. Contact**  
 munnakhan01329@gmail.com  
 
-**VIII. Resume**  
-https://drive.google.com/file/d/1Rx96lMhzOv-gwcol44Wvg9D44BZ2iBW9/view
+**VIII. CV**  
+https://drive.google.com/file/d/1lZfEV_EPVSuGuX6aTUb27RSfGi5Aizgp/view?usp=sharing
 
 <br clear="both" />
 
